@@ -6,3 +6,4 @@ Simple weather app using data from mapbox&amp;weatherstack services
 To put the project in production one needs API keys from two mentioned services
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
